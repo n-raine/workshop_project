@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+}
+
+body {
+    background-color: lightgray;
+}
+
+#goal-list {
+    margin-left: 10px;
+    padding-right: 10px;
+    width: fit-content;
+    border: 2px dotted blue
+}
+
+#picture {
+    width: 50%;
+    float: right;
+    border: solid;
+    border-color: grey beige white grey;
+}
+
+#qqq {
+    font-weight: bold;
+}
+
+.list-item {
+    text-decoration: underline;
+}
